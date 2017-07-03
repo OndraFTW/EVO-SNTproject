@@ -1,0 +1,10 @@
+decoder      cross   fitness feasible   time   
+cover        pmx          80      80 0.024070000000000005
+cover        order        81      80 0.021120000000000007
+cover+       pmx          61      81 0.023430000000000003
+cover+       order        62      81 0.020539999999999996
+contribution pmx          61      71 0.03516999999999998
+contribution order        61      73 0.03157000000000001
+combined     pmx          59      84 0.035619999999999985
+combined     order        60      84 0.03145999999999998
+
